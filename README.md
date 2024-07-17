@@ -40,5 +40,12 @@ In Interactive Python Notebook -> data extraction,data cleaning,data filtering a
 #
 In Python file all the streamlit codes are written Sql queries are used to find insights from the phonepe pulse dataset.
 #
+#Pics..
+![image](https://github.com/user-attachments/assets/0ce68643-84df-42fb-9cd0-26c4ae8b885f)
+![image](https://github.com/user-attachments/assets/a81653e4-b15c-497f-ad52-40e5d9fce9b3)
+
+![image](https://github.com/user-attachments/assets/73b82b3b-7b1d-4d4d-808c-9f5980cd8a20)
+
+![image](https://github.com/user-attachments/assets/39a9f993-6f93-4b06-90c7-60fe41ec33b4)
 
 
