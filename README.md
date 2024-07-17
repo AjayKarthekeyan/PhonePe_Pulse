@@ -25,6 +25,14 @@ select different facts and figures to display.
 MySQL database and fetch the data into a Pandas dataframe. Use the data in
 the dataframe to update the dashboard dynamically.
 
+7. Deployment: Ensure the solution is secure, efficient, and user-friendly. Test
+the solution thoroughly and deploy the dashboard publicly, making it
+accessible to users.
+
+This approach leverages the power of Python and its numerous libraries to extract,
+transform, and analyze data, and to create a user-friendly dashboard for visualizing
+the insights obtained from the data.
+
 ## file Information
 The images folder have all the pics and videos for this project and all the images and videos I took from PhonePe website.
 
@@ -32,10 +40,4 @@ In Interactive Python Notebook -> data extraction,data cleaning,data filtering a
 In Python file all the streamlit codes are written Sql queries are used to find insights from the phonepe pulse dataset.
 
 
-8. Deployment: Ensure the solution is secure, efficient, and user-friendly. Test
-the solution thoroughly and deploy the dashboard publicly, making it
-accessible to users.
 
-This approach leverages the power of Python and its numerous libraries to extract,
-transform, and analyze data, and to create a user-friendly dashboard for visualizing
-the insights obtained from the data.
