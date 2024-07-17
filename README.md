@@ -27,6 +27,7 @@ the dataframe to update the dashboard dynamically.
 
 ## file Information
 The images folder have all the pics and videos for this project and all the images and videos I took from PhonePe website.
+
 In Interactive Python Notebook -> data extraction,data cleaning,data filtering and all the data sorts of operation are done in .ipynb file. First execute the .ipynb file then movve on to .py file. For easy understanding of the project.
 In Python file all the streamlit codes are written Sql queries are used to find insights from the phonepe pulse dataset.
 
